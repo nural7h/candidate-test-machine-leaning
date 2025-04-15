@@ -83,4 +83,4 @@ You can explore related work for inspiration and validation:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/candidate-test-2022-analysis.git
+   git clone https://github.com/nural7h/candidate-test-machine-leaning
